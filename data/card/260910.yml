@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.4.3"
   latestRelease: "v1.4.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:40:16Z
+  collectedAt: 2026-09-10T23:09:38Z
 timeline:
   created: 2016-04-28
   lastCommit: 2025-12-10
@@ -83,7 +83,7 @@ total:
   commit: 51
 ---
 path: /home/runner/.x-repo/github.com/a8m/envsubst
-collectedAt: 2026-09-10T20:40:19Z
+collectedAt: 2026-09-10T23:09:38Z
 loc:
   Go:
     code: 998
