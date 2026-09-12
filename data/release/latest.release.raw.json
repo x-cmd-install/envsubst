@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 8334,
+      "download_count": 8882,
       "created_at": "2025-02-26T19:44:51Z",
       "updated_at": "2025-02-26T19:44:51Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst-Darwin-arm64.md5"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 7309,
+      "download_count": 7859,
       "created_at": "2025-02-26T19:44:55Z",
       "updated_at": "2025-02-26T19:44:56Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst-Darwin-x86_64.md5"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2549356,
       "digest": null,
-      "download_count": 68278,
+      "download_count": 68296,
       "created_at": "2025-02-26T19:44:53Z",
       "updated_at": "2025-02-26T19:44:53Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst-Linux-arm64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 9494,
+      "download_count": 10044,
       "created_at": "2025-02-26T19:44:53Z",
       "updated_at": "2025-02-26T19:44:54Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst-Linux-arm64.md5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2537379,
       "digest": null,
-      "download_count": 632175,
+      "download_count": 632858,
       "created_at": "2025-02-26T19:44:50Z",
       "updated_at": "2025-02-26T19:44:51Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst-Linux-x86_64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 50111,
+      "download_count": 50721,
       "created_at": "2025-02-26T19:44:51Z",
       "updated_at": "2025-02-26T19:44:51Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst-Linux-x86_64.md5"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": null,
-      "download_count": 7343,
+      "download_count": 7893,
       "created_at": "2025-02-26T19:44:51Z",
       "updated_at": "2025-02-26T19:44:51Z",
       "browser_download_url": "https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst.exe.md5"
