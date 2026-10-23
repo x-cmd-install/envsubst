@@ -1,0 +1,100 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: envsubst
+  binname: envsubst
+  visiblename: envsubst
+  version: "0.1"
+  origversion: 0.1-r1
+  status: outdated
+  summary: perform variable substitutions on input
+  maintainers:
+    - ariadne@dereferenced.org
+  licenses:
+    - ISC
+- repo: freebsd
+  srcname: devel/envsubst
+  binname: envsubst
+  visiblename: devel/envsubst
+  version: "0.1"
+  origversion: null
+  status: outdated
+  summary: Perform variable substitutions on input
+  maintainers:
+    - ports@freebsd.org
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: envsubst
+  visiblename: envsubst
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: Environment variables substitution for Go
+  maintainers:
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: envsubst
+  visiblename: envsubst
+  version: 1.4.2
+  origversion: null
+  status: outdated
+  summary: Environment variables substitution for Go
+  maintainers:
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: envsubst
+  visiblename: envsubst
+  version: 1.4.3
+  origversion: null
+  status: newest
+  summary: Environment variables substitution for Go
+  maintainers:
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: envsubst
+  visiblename: envsubst
+  version: 1.4.3
+  origversion: null
+  status: newest
+  summary: Environment variables substitution for Go
+  maintainers:
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: envsubst
+  visiblename: envsubst
+  version: 1.4.3
+  origversion: null
+  status: newest
+  summary: Environment variables substitution for Go
+  maintainers:
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: envsubst
+  visiblename: envsubst
+  version: 1.4.3
+  origversion: null
+  status: newest
+  summary: Environment variables substitution for Go
+  maintainers:
+    - nixpkgs@nicknovitski.com
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: envsubst
+  visiblename: envsubst
+  version: 1.4.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
