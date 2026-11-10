@@ -24,11 +24,11 @@ x install envsubst
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.3 / 10**
+总评分: **3.4 / 10**
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Maintained** (1/10) — 1 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
@@ -45,22 +45,22 @@ x install envsubst
 
 ## 流行度
 
-- **Star**: 910 · **Fork**: 98 · **开放 issue**: 36 · **贡献者**: 15
+- **Star**: 911 · **Fork**: 98 · **开放 issue**: 37 · **贡献者**: 15
 
 ## 累计统计
 
-- **发布数**: 6 · **已合并 PR**: 23 · **开放 PR**: 9 · **已关闭 issue**: 19 · **开放 issue**: 17 · **提交数**: 52
+- **发布数**: 6 · **已合并 PR**: 23 · **开放 PR**: 9 · **已关闭 issue**: 20 · **开放 issue**: 17 · **提交数**: 52
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last60d | 2026-09-09 | 0 | 1 | 3 | 0 | 0 | 1 |
-| 90d | 2026-08-10 | 0 | 1 | 3 | 0 | 0 | 1 |
-| last180d | 2026-05-12 | 0 | 1 | 3 | 0 | 0 | 1 |
-| 360d | 2025-11-13 | 0 | 1 | 5 | 0 | 0 | 2 |
-| last720d | 2024-11-18 | 1 | 3 | 5 | 0 | 3 | 3 |
+| 30d | 2026-10-11 | 0 | 1 | 3 | 1 | 0 | 1 |
+| last60d | 2026-09-11 | 0 | 1 | 3 | 1 | 0 | 1 |
+| 90d | 2026-08-12 | 0 | 1 | 3 | 1 | 0 | 1 |
+| last180d | 2026-05-14 | 0 | 1 | 3 | 1 | 0 | 1 |
+| 360d | 2025-11-15 | 0 | 1 | 5 | 1 | 0 | 2 |
+| last720d | 2024-11-20 | 1 | 3 | 5 | 1 | 3 | 3 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ envsubst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T06:35:22Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:58:55Z._
