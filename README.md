@@ -30,7 +30,7 @@ Lowest-scoring checks:
 
 - **Maintained** (1/10) — 1 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -49,18 +49,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 23 · **Open PRs**: 9 · **Closed issues**: 20 · **Open issues**: 17 · **Commits**: 52
+- **Releases**: 6 · **Merged PRs**: 23 · **Open PRs**: 8 · **Closed issues**: 20 · **Open issues**: 17 · **Commits**: 52
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-24 | 0 | 1 | 3 | 1 | 0 | 1 |
-| 90d | 2026-08-25 | 0 | 1 | 3 | 1 | 0 | 1 |
-| last180d | 2026-05-27 | 0 | 1 | 3 | 1 | 0 | 1 |
-| 360d | 2025-11-28 | 0 | 1 | 5 | 1 | 0 | 2 |
-| last720d | 2024-12-03 | 1 | 3 | 5 | 1 | 3 | 3 |
+| 30d | 2026-10-25 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last60d | 2026-09-25 | 0 | 1 | 2 | 1 | 0 | 1 |
+| 90d | 2026-08-26 | 0 | 1 | 2 | 1 | 0 | 1 |
+| last180d | 2026-05-28 | 0 | 1 | 2 | 1 | 0 | 1 |
+| 360d | 2025-11-29 | 0 | 1 | 4 | 1 | 0 | 2 |
+| last720d | 2024-12-04 | 1 | 3 | 4 | 1 | 3 | 3 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for envsubst lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:21:24Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:20:51Z._
