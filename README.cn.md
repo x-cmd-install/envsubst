@@ -55,12 +55,12 @@ x install envsubst
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 1 | 2 | 1 | 0 | 1 |
-| 90d | 2026-08-26 | 0 | 1 | 2 | 1 | 0 | 1 |
-| last180d | 2026-05-28 | 0 | 1 | 2 | 1 | 0 | 1 |
-| 360d | 2025-11-29 | 0 | 1 | 4 | 1 | 0 | 2 |
-| last720d | 2024-12-04 | 1 | 3 | 4 | 1 | 3 | 3 |
+| 30d | 2026-10-26 | 0 | 0 | 1 | 1 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 1 | 2 | 1 | 0 | 1 |
+| 90d | 2026-08-27 | 0 | 1 | 2 | 1 | 0 | 1 |
+| last180d | 2026-05-29 | 0 | 1 | 2 | 1 | 0 | 1 |
+| 360d | 2025-11-30 | 0 | 1 | 4 | 1 | 0 | 2 |
+| last720d | 2024-12-05 | 1 | 3 | 4 | 1 | 3 | 3 |
 
 ## Release 资产
 
@@ -77,15 +77,6 @@ x install envsubst
 | [envsubst.exe](https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst.exe) | 2.5 MiB | `other` |
 | [envsubst.exe.md5](https://github.com/a8m/envsubst/releases/download/v1.4.3/envsubst.exe.md5) | 33 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/envsubst) 上共有 **9** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.4.3` | ✅ latest |
-| Alpine edge | `0.1` | ⚠️ outdated |
-
 ## 改进这些数据
 
 envsubst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `envsubst` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +86,4 @@ envsubst 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:20:52Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:52:38Z._
